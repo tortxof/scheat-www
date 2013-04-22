@@ -14,6 +14,27 @@
 <meta http-equiv="expires" content="0">
 </head>
 <body>
+
+<div id="main">
+
+<div id="header">
+{% include header.html %}
+</div><!-- end header -->
+
+<div id="nav">
+{% include nav.html %}
+</div><!-- end nav -->
+
+<div id="content">
+<h1>{{ page.title }}</h1>
 {{ content }}
+</div><!-- end content -->
+
+</div><!-- end main -->
+
+<div id="footer">
+{% include footer.html %}
+</div><!-- end footer -->
+
 </body>
 </html>
