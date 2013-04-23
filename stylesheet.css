@@ -76,6 +76,8 @@ background-color:#000;
 #content {
 width:auto;
 background-color:#fff;
+background-image:url('/images/content-bg.png');
+background-repeat:repeat-x;
 margin:0;
 border:0;
 padding:2em;
