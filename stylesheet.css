@@ -84,7 +84,9 @@ padding:2em;
 }
 
 #footer {
-width:720px;
+width:auto;
+max-width:640px;
+font-size:.8em;
 margin:0 auto 0 auto;
 border:0;
 padding:0;
