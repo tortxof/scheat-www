@@ -6,3 +6,4 @@ exclude:
 - README.md
 - upload
 - assets
+- gen_photo_small
