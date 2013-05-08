@@ -27,7 +27,7 @@ title: Roster
 - Blake Poteat
 - Colyn Brannon
 - Chandler Sparks
-- Cameron
+- Cameron Lanford
 - Caleb Lanford
 - Josh Moore
 
