@@ -16,6 +16,11 @@ font-size:1.3em;
 text-align:center;
 }
 
+.date {
+color:#666;
+font-size:.8em;
+}
+
 #main {
 width:720px;
 margin:0 auto 0 auto;

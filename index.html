@@ -2,4 +2,7 @@
 layout: default
 title: News
 ---
-<p>News items go here.</p>
+{% for post in site.posts %}
+<p><span class="date">{{ post.date | date_to_string }}</span><br />
+{{ post.content }}</p>
+{% endfor %}
