@@ -21,6 +21,12 @@ color:#666;
 font-size:.8em;
 }
 
+.thumbnail {
+padding:0;
+border:0;
+margin:8px;
+}
+
 #main {
 width:720px;
 margin:0 auto 0 auto;
@@ -82,17 +88,16 @@ background-color:#421;
 }
 
 #content {
-width:auto;
 background-color:#fff;
 background-image:url('/images/content-bg.png');
 background-repeat:repeat-x;
 margin:0;
 border:0;
-padding:2em;
+padding:1em 2em 1em 2em;
 }
 
 #footer {
-width:auto;
+clear:both;
 max-width:640px;
 font-size:.8em;
 margin:0 auto 0 auto;
