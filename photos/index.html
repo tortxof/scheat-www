@@ -4,12 +4,13 @@ title: Photos
 photos:
  - 
   file: 2013-05-05.17-06-26.6ac2fcf7.jpg
-  title: Pic One
+  title: 6th Grade Boys
  - 
   file: 2013-05-05.15-33-48.d8185cd9.jpg
-  title: Pic Two
 ---
 {% for photo in page.photos %}
-<a href="/photos/large/{{ photo.file }}" rel="lightbox" title="{{ photo.title }}">
+<div class="thumbnail">
+<a href="/photos/large/{{ photo.file }}" rel="lightbox"{% if photo.title %} title="{{ photo.title }}"{% endif %}>
 <img src="/photos/small/{{ photo.file }}" /></a>
+</div>
 {% endfor %}
