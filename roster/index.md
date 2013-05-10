@@ -18,6 +18,8 @@ title: Roster
 6th Grade Boys
 --------------
 
+Record as of May 10\: 20-6
+
 - Trayson Fowler
 - Storm Duck
 - Jaylon Girdner
