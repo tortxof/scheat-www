@@ -43,12 +43,6 @@ border:0;
 padding:0;
 }
 
-#header img {
-margin:0;
-border:0;
-padding:0;
-}
-
 #nav {
 width:720px;
 font-size:.8em;
@@ -98,9 +92,31 @@ padding:1em 2em 1em 2em;
 
 #footer {
 clear:both;
-max-width:640px;
+width:640px;
 font-size:.8em;
 margin:0 auto 0 auto;
 border:0;
 padding:0;
+}
+
+@media only screen and (max-width: 720px), only screen and (max-device-width: 720px) {
+
+#main {
+width:360px;
+}
+
+#header {
+width:360px;
+height:128px;
+background-image:url('/images/header-mobile.png');
+}
+
+#nav {
+width:360px;
+}
+
+#footer {
+width:320px;
+}
+
 }
