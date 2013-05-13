@@ -15,6 +15,24 @@ title: Roster
 - Parker Madden
 - Andrew Wilkins
 
+8th Grade Boys
+--------------
+
+- Mikail Coleman
+- Cameron Easler
+- Donavan Anderson
+- Kado Moore
+- Tyrell Oglesby
+- Bryce Wilkins
+- Davis Waltz
+- Nick Whitaker
+- Preston
+- Dillon Lyles
+- Landon Moss
+- Tajh Foster
+- Cameron Smith
+- Deshawn Simpson
+
 6th Grade Boys
 --------------
 
@@ -34,6 +52,7 @@ Record as of May 10\: 20-6
 - Josh Moore
 
 Coaches:
+
 - Tray Fowler
 - Jeff Easler
 - Todd Duck
