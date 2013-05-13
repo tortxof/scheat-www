@@ -11,6 +11,9 @@ photos:
   file: 2013-05-05.15-33-48.d8185cd9.jpg
 ---
 {% for photo in page.photos %}
-<a class="thumbnail" href="/photos/large/{{ photo.file }}" rel="lightbox"{% if photo.title %} title="{{ photo.title }}"{% endif %}>
+<div class="thumbnail">
+<a href="/photos/large/{{ photo.file }}" rel="lightbox"{% if photo.title %} title="{{ photo.title }}"{% endif %}>
 <img src="/photos/small/{{ photo.file }}" /></a>
+</div>
 {% endfor %}
+<br style="clear:both;" />

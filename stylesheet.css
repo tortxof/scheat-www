@@ -26,6 +26,7 @@ font-size:.8em;
 }
 
 .thumbnail {
+float:left;
 padding:0;
 border:0;
 margin:8px;
