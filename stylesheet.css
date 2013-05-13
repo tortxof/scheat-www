@@ -11,6 +11,22 @@ border:0;
 padding:0;
 }
 
+a:link {
+color:#339;
+}
+
+a:visited {
+color:#939;
+}
+
+a:hover {
+color:#66c;
+}
+
+a:active {
+color:#66c;
+}
+
 img {
 border:none;
 }
@@ -104,7 +120,7 @@ padding:1em 2em 1em 2em;
 clear:both;
 width:640px;
 font-size:.8em;
-background-color:rgba(255,255,255,0.2);
+background-color:rgba(255,255,255,0.5);
 margin:1em auto 1em auto;
 border:1px solid #000;
 padding:.5em 1em .5em 1em;
