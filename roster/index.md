@@ -48,7 +48,7 @@ title: Roster
 - Chancellor Wiggins
 - Tyrhel Moore
 
-Coaches:
+Coaches\:
 
 - Jody Walker
 - Johnny Rhode
@@ -72,7 +72,7 @@ Record as of May 10\: 20-6
 - Caleb Lanford
 - Josh Moore
 
-Coaches:
+Coaches\:
 
 - Tray Fowler
 - Jeff Easler
