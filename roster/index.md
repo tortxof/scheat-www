@@ -33,6 +33,27 @@ title: Roster
 - Cameron Smith
 - Deshawn Simpson
 
+7th Grade Boys
+--------------
+
+- Malachi Brooks
+- Patrick Jones
+- Jakorian Martin
+- Christian Kincaid
+- Seth Hewitt
+- Chalz Gillard
+- Anthony McKee
+- Jordan Walker
+- Dezmond Jones
+- Chancellor Wiggins
+- Tyrhel Moore
+
+Coaches:
+
+- Jody Walker
+- Johnny Rhode
+- Josh Gordon
+
 6th Grade Boys
 --------------
 
