@@ -26,7 +26,7 @@ title: Roster
 - Bryce Wilkins
 - Davis Waltz
 - Nick Whitaker
-- Preston
+- Preston Miller
 - Dillon Lyles
 - Landon Moss
 - Tajh Foster
