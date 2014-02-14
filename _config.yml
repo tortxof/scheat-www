@@ -2,6 +2,7 @@ auto: false
 permalink: /:year/:month/:day/:title
 pygments: true
 server: false
+markdown: rdiscount
 exclude:
 - README.md
 - upload
