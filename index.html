@@ -4,6 +4,6 @@ title: News
 ---
 {% for post in site.posts %}
 <h2>{{ post.title }}</h2>
-<p><span class="date">{{ post.date | date_to_string }}</span><br />
-{{ post.content }}</p>
+<p class="date">{{ post.date | date_to_string }}</p>
+{{ post.content }}
 {% endfor %}
