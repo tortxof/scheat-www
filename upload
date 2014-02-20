@@ -1,1 +1,2 @@
-rsync -av _site/ djones.co:/var/www/servers/scheatbasketball.com/www/
+rsync -av --delete _site/ djones.co:/var/www/servers/scheatbasketball.com/
+rsync -av --delete _site/ droplet1.djones.co:/var/www/servers/scheatbasketball.com/
