@@ -3,7 +3,7 @@ layout: default
 title: News
 ---
 {% for post in site.posts %}
-<h2>{{ post.title }}</h2>
+<h2>{{ post.title | markdownify | strip_html }}</h2>
 <p class="date">{{ post.date | date_to_string }}</p>
 {{ post.content }}
 {% endfor %}
