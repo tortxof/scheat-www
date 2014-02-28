@@ -2,7 +2,7 @@ permalink: /:year/:month/:day/:title
 pygments: true
 markdown: redcarpet
 redcarpet:
-  extensions: ['smart']
+  extensions: ['smart', 'superscript']
 exclude:
 - README.md
 - upload
