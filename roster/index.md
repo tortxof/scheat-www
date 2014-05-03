@@ -2,7 +2,7 @@
 layout: default
 title: Roster
 ---
-4th Grade
+4^(th) Grade
 ---------
 
 <table class="roster-table">
@@ -16,7 +16,7 @@ title: Roster
 <tr><td>Jason Levitt</td><td>33</td></tr>
 </table>
 
-5th Grade
+5^(th) Grade
 ---------
 
 <table class="roster-table">
@@ -31,7 +31,7 @@ title: Roster
 <tr><td>Jaylen Nash</td><td>24</td></tr>
 </table>
 
-6th Grade
+6^(th) Grade
 ---------
 
 <table class="roster-table">
@@ -46,7 +46,7 @@ title: Roster
 <tr><td>Theo Delorme</td><td>35</td></tr>
 </table>
 
-7th Grade
+7^(th) Grade
 ---------
 
 <table class="roster-table">
@@ -60,7 +60,7 @@ title: Roster
 <tr><td>Jackson Haguewood</td><td>35</td></tr>
 </table>
 
-7th Grade Elite
+7^(th) Grade Elite
 ---------------
 
 <table class="roster-table">
@@ -78,7 +78,7 @@ title: Roster
 <tr><td>Pierre Gentry</td></tr>
 </table>
 
-8th Grade
+8^(th) Grade
 ---------
 
 <table class="roster-table">
@@ -94,7 +94,7 @@ title: Roster
 <tr><td>JB Kennedy</td><td>35</td></tr>
 </table>
 
-9th Grade
+9^(th) Grade
 ---------
 
 <table class="roster-table">
@@ -112,7 +112,7 @@ title: Roster
 <tr><td>Dylan Lyles</td><td>33</td></tr>
 </table>
 
-10th Grade
+10^(th) Grade
 ----------
 
 <table class="roster-table">
