@@ -1,0 +1,14 @@
+- href: "/"
+  text: News
+- href: "/roster/"
+  text: Roster
+- href: "/calendar/"
+  text: Calendar
+- href: "/photos/"
+  text: Photos
+- href: "/documents/"
+  text: Documents
+- href: "/sponsors/"
+  text: Sponsors
+- href: "/contact/"
+  text: Contact

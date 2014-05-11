@@ -1,9 +1,5 @@
 <ul>
-<li><a href="/">News</a></li>
-<li><a href="/roster/">Roster</a></li>
-<li><a href="/calendar/">Calendar</a></li>
-<li><a href="/photos/">Photos</a></li>
-<li><a href="/documents/">Documents</a></li>
-<li><a href="/sponsors/">Sponsors</a></li>
-<li><a href="/contact/">Contact</a></li>
+{% for link in site.data.nav %}
+<li><a href="{{ link.href }}">{{ link.text }}</a></li>
+{% endfor %}
 </ul>
