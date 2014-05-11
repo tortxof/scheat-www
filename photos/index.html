@@ -1,32 +1,8 @@
 ---
 layout: default
 title: Photos
-photos:
-  -  file: 2014-04-27.19-57-25.2e188446.jpg
-     title: 9th Grade 2014
-
-  -  file: 0000-00-00.00-00-00.54bc76fa.jpg
-     title: 9th Grade Elite
-
-  -  file: 2013-04-28.18-31-20.1d1ac5a9.jpg
-     title: 8th Grade Boys
-
-  -  file: 2013-04-27.15-20-56.6b129ba3.jpg
-     title: 6th Grade Boys
-
-  -  file: 2013-05-05.17-06-26.6ac2fcf7.jpg
-     title: 6th Grade Boys
-
-  -  file: 2013-05-05.15-33-48.d8185cd9.jpg
-     title: 6th Grade Boys
-
-  -  file: 2013-04-28.17-40-04.14913ff4.jpg
-     title: 5th Grade Boys
-
-  -  file: 2013-04-28.17-41-18.ee372f6d.jpg
-     title: 5th Grade Boys
 ---
-{% for photo in page.photos %}
+{% for photo in site.data.photos %}
 <div class="thumbnail">
 <a href="/photos/large/{{ photo.file }}" rel="lightbox"{% if photo.title %} title="{{ photo.title }}"{% endif %}>
 <img src="/photos/small/{{ photo.file }}" /></a><br />
