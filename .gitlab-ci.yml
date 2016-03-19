@@ -1,0 +1,13 @@
+image: tortxof/webdev
+
+jekyll:
+  stage: build
+  script:
+    - jekyll build
+  tags:
+    - webdev
+  only:
+    - master
+  artifacts:
+    paths:
+      - _site/
