@@ -2,7 +2,7 @@
 layout: default
 title: Parents' Meeting Tonight
 ---
-The Parents' Meeting will be held tonight, March 11^(th), at New Beginnings from 6PM - 7PM.
+The Parents' Meeting will be held tonight, March 11th, at New Beginnings from 6PM - 7PM.
 
 Please bring the following documents:
 
@@ -19,4 +19,4 @@ are available on the [Documents](/documents/) page.
 The waiver is due tonight or no later than the first practice
 (can't practice without this).
 
-The Parents' Order & Sponsorship forms are due by April 4^(th).
+The Parents' Order & Sponsorship forms are due by April 4th.
